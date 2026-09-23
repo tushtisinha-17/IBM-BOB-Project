@@ -24,6 +24,9 @@ student_performance_project/
 ---
 
 ## Dataset
+📥 **Source:** [Student Performance Dataset — Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+
+The dataset is also included locally as `student_performance_dataset.csv` (1,000,000 rows, 9 columns).
 
 | Column | Type | Description |
 |---|---|---|
